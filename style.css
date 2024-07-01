@@ -194,7 +194,7 @@ a {
 
 
 /* Vista in verticale */
-@media only screen and (max-width: 950px) { 
+@media only screen and (max-width: 1500px) { 
     .menu_container {
         width: 100%;
         height: 250px;
